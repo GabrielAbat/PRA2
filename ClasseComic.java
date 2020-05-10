@@ -52,7 +52,7 @@ public class Comic {
         return mPublishingCompany;
     }
 
-    public void setPublishingCompany(String style) {
+    public void setPublishingCompany(String publishingCompany) {
         mPublishingCompany = publishingCompany;
     }
 
